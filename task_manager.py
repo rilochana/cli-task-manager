@@ -1,8 +1,8 @@
 import json
 
 # Dummy login credentials
-DUMMY_EMAIL = "mnkglobal@example.com"
-DUMMY_PASSWORD = "mnk123"
+DUMMY_EMAIL = "pyspiders@example.com"
+DUMMY_PASSWORD = "py@123"
 
 def login():
     email = input("Enter your email: ")
